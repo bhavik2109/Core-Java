@@ -1,4 +1,4 @@
-package com.bhavik.example;
+package com.bhavik.helloworld;
 
 public class HelloWorld {
   public static void main(String[] args) {
